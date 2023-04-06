@@ -73,5 +73,8 @@
     "tsdx": "^0.13.3",
     "tslib": "^2.5.0",
     "typescript": "^5.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
