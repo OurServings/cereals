@@ -1,4 +1,4 @@
-[![Node.js CI](https://github.com/MyServings/cereal/actions/workflows/node.js.yml/badge.svg)](https://github.com/MyServings/cereal/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/MyServings/cereal/actions/workflows/publish.yml/badge.svg)](https://github.com/MyServings/cereal/actions/workflows/publish.yml)
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
