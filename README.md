@@ -29,11 +29,13 @@ Workflow permissions
 To commit changes after making file changes run the following command:
 
 ```
+$ git add .
 $ npx cz
 ```
 
-This will trigger *commitizen (cz)* and you will be prompetd to describe your change.
+This will trigger *commitizen (cz)* and you will be prompted to describe your change. 
 
+Follow with ```git push```.
 
 # TSDX React w/ Storybook User Guide
 
