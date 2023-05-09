@@ -37,6 +37,17 @@ This will trigger *commitizen (cz)* and you will be prompted to describe your ch
 
 Follow with ```git push```.
 
+Our Github Actions workflow with automatically build a package from the source code and publish it to npm.
+
+After a successful publish of the package to npm , you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
+
+```
+@myservings/cereal
+```
+
+Or go directly to https://www.npmjs.com/package/@myservings/cereal
+
+
 # TSDX React w/ Storybook User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
