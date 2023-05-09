@@ -24,6 +24,17 @@ Workflow permissions
 - [Checked]: Read and write permissions
 - [Unchecked]: Read repository contents and packages permissions
 
+# Executive Summary
+
+To commit changes after making file changes run the following command:
+
+```
+$ npx cz
+```
+
+This will trigger *commitizen (cz)* and you will be prompetd to describe your change.
+
+
 # TSDX React w/ Storybook User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
