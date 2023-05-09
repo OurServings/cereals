@@ -52,7 +52,7 @@ Or go directly to https://www.npmjs.com/package/@myservings/cereal
 To install the node module package use the following:
 
 ```
-npm i @myservings/cereal
+$ npm i @myservings/cereal
 ```
 
 # TSDX React w/ Storybook User Guide
