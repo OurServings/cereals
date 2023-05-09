@@ -8,6 +8,13 @@ Based on "Create an NPM Package" at https://github.com/vanHeemstraSystems/create
 
 Based on "Create a Private, Enterprise-Grade, Component Library using React with Senior Databricks Engineer" at https://www.youtube.com/watch?v=AOnAl592CJc
 
+**WARNING**: In order for the automation to successfully push changes to the repository, make sure you have set the following at your repository's "Settings" > "Actions" > "General":
+
+Workflow permissions
+
+- [Checked]: Read and write permissions
+- [Unchecked]: Read repository contents and packages permissions
+
 # TSDX React w/ Storybook User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
