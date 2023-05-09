@@ -39,7 +39,9 @@ Follow with ```git push```.
 
 Our Github Actions workflow with automatically build a package from the source code and publish it to npm.
 
-After a successful publish of the package to npm , you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
+You can see the latest releases in the Github repository at https://github.com/MyServings/cereal/releases
+
+After a successful publish of the package to npm, you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
 
 ```
 @myservings/cereal
