@@ -47,6 +47,11 @@ After a successful publish of the package to npm , you can view the package on n
 
 Or go directly to https://www.npmjs.com/package/@myservings/cereal
 
+To install the node module package use the following:
+
+```
+npm i @myservings/cereal
+```
 
 # TSDX React w/ Storybook User Guide
 
