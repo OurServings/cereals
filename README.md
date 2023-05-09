@@ -15,6 +15,8 @@ Workflow permissions
 - [Checked]: Read and write permissions
 - [Unchecked]: Read repository contents and packages permissions
 
+If the option is disabled, you can enable that option under ORGANIZATION settings not REPO settings.
+
 # TSDX React w/ Storybook User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
