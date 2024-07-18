@@ -1,4 +1,4 @@
-[![Node.js CI](https://github.com/MyServings/cereal/actions/workflows/publish.yml/badge.svg)](https://github.com/MyServings/cereal/actions/workflows/publish.yml)
+[![Node.js CI](https://github.com/OurServings/cereals/actions/workflows/publish.yml/badge.svg)](https://github.com/OurServings/cereals/actions/workflows/publish.yml)
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
@@ -41,7 +41,7 @@ Follow with ```git push```.
 
 Our Github Actions workflow with automatically build a package from the source code and publish it to npm.
 
-You can see the latest releases in the Github repository at https://github.com/MyServings/cereals/releases
+You can see the latest releases in the Github repository at https://github.com/OurServings/cereals/releases
 
 After a successful publish of the package to npm, you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
 
