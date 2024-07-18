@@ -4,10 +4,10 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/myservings/cereal"
+    "url": "https://github.com/ourservings/cereals"
   },
   "bugs": {
-    "url": "https://github.com/myservings/issues"
+    "url": "https://github.com/ourservings/cereals/issues"
   },
   "typings": "dist/index.d.ts",
   "files": [
@@ -45,16 +45,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@myservings/cereal",
+  "name": "@ourservings/cereals",
   "author": "Willem van Heemstra",
-  "module": "dist/cereal.esm.js",
+  "module": "dist/cereals.esm.js",
   "size-limit": [
     {
-      "path": "dist/cereal.cjs.production.min.js",
+      "path": "dist/cereals.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/cereal.esm.js",
+      "path": "dist/cereals.esm.js",
       "limit": "10 KB"
     }
   ],
