@@ -2,7 +2,7 @@
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-# Cereal
+# Cereals
 
 Based on "Create an NPM Package" at https://github.com/vanHeemstraSystems/create-an-npm-package
 
