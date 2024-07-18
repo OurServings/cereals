@@ -41,20 +41,20 @@ Follow with ```git push```.
 
 Our Github Actions workflow with automatically build a package from the source code and publish it to npm.
 
-You can see the latest releases in the Github repository at https://github.com/MyServings/cereal/releases
+You can see the latest releases in the Github repository at https://github.com/MyServings/cereals/releases
 
 After a successful publish of the package to npm, you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
 
 ```
-@myservings/cereal
+@ourservings/cereals
 ```
 
-Or go directly to https://www.npmjs.com/package/@myservings/cereal
+Or go directly to https://www.npmjs.com/package/@ourservings/cereals
 
 To install the node module package use the following:
 
 ```
-$ npm i @myservings/cereal
+$ npm i @ourservings/cereals
 ```
 
 # TSDX React w/ Storybook User Guide
@@ -117,7 +117,7 @@ Jest tests are set up to run with `npm test` or `yarn test`.
 
 ### Bundle analysis
 
-Calculates the real cost of your library using [size-limit](https://github.com/ai/size-limit) with `npm run size` and visulize it with `npm run analyze`.
+Calculates the real cost of your library using [size-limit](https://github.com/ai/size-limit) with `npm run size` and visualize it with `npm run analyze`.
 
 #### Setup Files
 
